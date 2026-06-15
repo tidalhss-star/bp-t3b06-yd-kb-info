@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/about.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/blog.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/posts/compare-002-7nk0sq.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/posts/interview-001-1f6kuc9.html</loc>
@@ -55,8 +61,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/posts/qa-001-7nk0sq.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://tidalhss-star.github.io/bp-t3b06-yd-kb-info/feed.xml</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
